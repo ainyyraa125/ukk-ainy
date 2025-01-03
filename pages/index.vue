@@ -108,7 +108,6 @@ body {
 
 /* Hero Section */
 .hero-section {
-  background: url('~/assets/img/hero-bg.jpg') no-repeat center center/cover;
   color: white;
   padding: 5rem 0;
 }
